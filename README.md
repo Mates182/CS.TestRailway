@@ -30,7 +30,7 @@ cd CS.TestRailway
    ```bash
    dotnet run
    ```
-5. Access the application in your browser at `http://localhost:8080` or the configured port.
+5. Access the application in your browser at `http://localhost:5000` or the configured port.
 
 
 ---
