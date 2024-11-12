@@ -4,7 +4,7 @@
 This is an MVC template project in C# using ADO.NET 6.
 
 ## Project Links
-- **Railway Public URL**: [CS Test on Railway](https://cspracticetask-production.up.railway.app/)
+- **Railway Public URL**: [CS Test on Railway](https://cstestrailway-mateopillajo.up.railway.app/)
 
 ## Getting Started
 
