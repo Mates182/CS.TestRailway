@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\CSTestRailway.csproj": {}
+    "d:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\CSTestRailway.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\CSTestRailway.csproj": {
+    "d:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\CSTestRailway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\CSTestRailway.csproj",
+        "projectUniqueName": "d:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\CSTestRailway.csproj",
         "projectName": "CSTestRailway",
-        "projectPath": "D:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\CSTestRailway.csproj",
+        "projectPath": "d:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\CSTestRailway.csproj",
         "packagesPath": "C:\\Users\\Mateo Pillajo\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\obj\\",
+        "outputPath": "d:\\VSCode\\Uni\\Prog Distribuida\\CS.TestRailway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mateo Pillajo\\AppData\\Roaming\\NuGet\\NuGet.Config",
